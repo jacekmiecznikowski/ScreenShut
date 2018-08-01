@@ -1,0 +1,9 @@
+{
+    "last-edited": 1528052623, 
+    "max-instances": -1, 
+    "dangerous": false, 
+    "uuid": "ScreenShut@jacekmiecznikowski", 
+    "name": "ScreenShut", 
+    "version": "1.0", 
+    "description": "Copy part of your screen to the clipboard"
+}
